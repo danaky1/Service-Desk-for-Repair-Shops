@@ -1,0 +1,30 @@
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.deps.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Core.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Core.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.AssemblyInfo.cs
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceD.C253F485.Up2Date
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\refint\ServiceDeskPro.Infrastructure.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ref\ServiceDeskPro.Infrastructure.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.deps.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Core.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\bin\Debug\net9.0\ServiceDeskPro.Core.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.AssemblyInfo.cs
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceD.C253F485.Up2Date
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\refint\ServiceDeskPro.Infrastructure.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.Infrastructure\obj\Debug\net9.0\ref\ServiceDeskPro.Infrastructure.dll

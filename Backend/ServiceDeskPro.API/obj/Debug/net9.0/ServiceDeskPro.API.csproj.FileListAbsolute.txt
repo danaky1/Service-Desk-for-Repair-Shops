@@ -1,0 +1,260 @@
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.csproj.AssemblyReference.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.AssemblyInfoInputs.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.AssemblyInfo.cs
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\appsettings.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.staticwebassets.endpoints.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.exe
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.deps.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.runtimeconfig.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Core.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Core.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\scopedcss\bundle\ServiceDeskPro.API.styles.css
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceD.FCCF0AD2.Up2Date
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\refint\ServiceDeskPro.API.dll
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.pdb
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.genruntimeconfig.cache
+C:\Users\ThinkPad P52\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ref\ServiceDeskPro.API.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\appsettings.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.staticwebassets.endpoints.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.exe
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.deps.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.runtimeconfig.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.API.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Core.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Core.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\bin\Debug\net9.0\ServiceDeskPro.Infrastructure.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.csproj.AssemblyReference.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.AssemblyInfoInputs.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.AssemblyInfo.cs
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.csproj.CoreCompileInputs.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\scopedcss\bundle\ServiceDeskPro.API.styles.css
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceD.FCCF0AD2.Up2Date
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\refint\ServiceDeskPro.API.dll
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.pdb
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ServiceDeskPro.API.genruntimeconfig.cache
+C:\Users\Данил\ServiceDeskPro\Backend\ServiceDeskPro.API\obj\Debug\net9.0\ref\ServiceDeskPro.API.dll
